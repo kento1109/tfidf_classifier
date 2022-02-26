@@ -1,0 +1,7 @@
+labels: [first, not_first]
+
+train_file_path: /Users/kento1109/dev/micin/inputs/train.tsv
+test_file_path: /Users/kento1109/dev/micin/inputs/test.tsv
+
+train_params:
+  min_count: 2
